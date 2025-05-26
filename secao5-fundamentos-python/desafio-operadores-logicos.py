@@ -13,4 +13,4 @@ TV_32 = trabalho_terca != trabalho_quinta
 Sorvete = trabalho_quinta or trabalho_terca
 Casa = not Sorvete
 
-print(f"TV50={TV_50} TV32={TV_32} SORVETE={Sorvete} CASA={Casa}")
+print(f"TV50={TV_50}\nTV32={TV_32}\nSORVETE={Sorvete}\nCASA={Casa}")

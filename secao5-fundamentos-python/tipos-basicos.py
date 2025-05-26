@@ -10,6 +10,6 @@ print({'nome: sergio', 'idade: 17'})
 print(None)  # Ausência de valor
 # Misturando tipos
 
-print("Você é" + 3 * ' Muito' + ' legal') # Também funciona, repetindo o 'Muito' 3 vezes
+# Também funciona, repetindo o 'Muito' 3 vezes
+print("Você é" + 3 * ' Muito' + ' legal')
 # print(3 + '3') -> Ambiguidade (TypeError)
-
